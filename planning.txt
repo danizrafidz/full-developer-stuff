@@ -1,20 +1,20 @@
 DANISH RAFIE AL RASYAD - RESOLUSI 2022
 - Konsisten, kalo enggak ya ambyar
 
-JULI
-- (New) Responsive Web Design Certification
+JULI | (New) Responsive Web Design Certification
+- Project
 
-AGUSTUS
-- JavaScripts Algorithms and Data Structures Certification
+AGUSTUS | JavaScripts Algorithms and Data Structures Certification
+- Project
 
-SEPTEMBER
-- Front End Development Libraries Certification
+SEPTEMBER | Front End Development Libraries Certification
+- Project
 
-OKTOBER
-- Data Visualization Certification
+OKTOBER | Data Visualization Certification
+- Project
 
-NOVEMBER
-- Back End Development and APIs Certification
+NOVEMBER | Back End Development and APIs Certification
+- Project
 
-DESEMBER
-- Quality Assurance Certifcation
+DESEMBER | Quality Assurance Certifcation
+- Project
