@@ -1,2 +1,3 @@
-# resolusi-2022
-Repository untuk planning progress belajar menuju Full Stack Developer
+- Open Projects
+----------------------------------------------------------------------
+Repository for progression become Full Stack Developer
