@@ -21,7 +21,9 @@ DESEMBER | :)
 - Expected get HarvardX Professional Certificate Computer Science for Web Programming
 
 EXPECTED PORTOFOLIO (My Own Website):
-- https://github.com/danizrafidz
+- danizrafidz.com
+- github.com/danizrafidz
+- linkedin.com/in/danish-rafie-al-rasyad
 
 CERTIFICATE:
 - HarvardX Professional Certificate Computer Science for Web Programming (6 months)
