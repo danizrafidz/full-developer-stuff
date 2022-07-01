@@ -52,15 +52,15 @@
 48. *`value="text"` : beda dengan name, value itu output di form nanti 
 49. `<fieldset>` : block-level elements (must be new line); can group multiple inputs/labels
 50. `<legend>` : exclusive caption for fieldset; gives users context about what they should enter
-51. 2<fieldset>
-52. 2<legend>
-53. 2*type=""
-54. 2*id="text"
+51. 2`<fieldset>`
+52. 2`<legend>`
+53. 2*`type=""`
+54. 2*`id="text"`
 55. *`for="same value as the input element's id attribute"`
-56. 2*name="text"
-57. 2<label>
-58. 2<label>
-59. 2*value="text"
+56. 2*`name="text"`
+57. 2`<label>`
+58. 3`<label>`
+59. 2*`value="text"`
 60. 
 61.
 62.
