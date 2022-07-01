@@ -1,4 +1,4 @@
-# Data Visualization
+# Data Visualization (39 Courses)
 
 Data is all around us, but it doesn't mean much without shape or context.
 
