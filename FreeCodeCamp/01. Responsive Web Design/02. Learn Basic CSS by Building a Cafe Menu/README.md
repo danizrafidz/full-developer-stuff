@@ -10,9 +10,18 @@
 8.
 9.
 10.
-11.
+11. `<style>` : placed in `head`
 12.
-13.
+13. 
+```css
+element {
+ property: value;
+}
+
+h1 {
+ text-allign: center;
+ }
+```
 14.
 15.
 16.
