@@ -49,19 +49,19 @@
 45. *`id="text"`: identify specific HTML elements, seperti halnya variable, akan berguna jika dipanggil oleh css
 46. membuat label baru
 47. *`name=”text”` : name yang ada di radio berfungsi untuk button jika salah satu dipencet akan mendeselect yang lainnya.
-48. *value="text" : beda dengan name, value it output di form nanti 
-49.
-50.
-51.
-52.
-53.
-54.
-55.
-56.
-57.
-58.
-59.
-60.
+48. *`value="text"` : beda dengan name, value itu output di form nanti 
+49. `<fieldset>` : block-level elements (must be new line); can group multiple inputs/labels
+50. `<legend>` : exclusive caption for fieldset; gives users context about what they should enter
+51. 2`<fieldset>`
+52. 2`<legend>`
+53. 2*`type=""`
+54. 2*`id="text"`
+55. *`for="same value as the input element's id attribute"`
+56. 2*`name="text"`
+57. 2`<label>`
+58. 2`<label>`
+59. 2*`value="text"`
+60. 
 61.
 62.
 63.
