@@ -1,4 +1,4 @@
-Learn HTML by building a Cat Photo App
+## Notes:
 
 ![image](https://user-images.githubusercontent.com/105960343/176815024-c723d87b-04bd-4acc-a3d0-fecefc030b84.png)
 
