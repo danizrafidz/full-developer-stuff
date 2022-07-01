@@ -11,23 +11,24 @@
 9.
 10.
 11. `<style>` : placed in `head`
-12.
-13. 
+12. Starting CSS here, HTML that can contains CSS in `<style>` element, it's called type selector
 ```css
 element {
  property: value;
 }
 
+BECOMES:
 h1 {
  text-allign: center;
  }
 ```
-14.
-15.
-16.
-17.
-18.
-19.
+13. Not sure but this works too if you want just one line `p {text-align: center;}`
+14. `h1, h2, p {text-align: center;}`
+15. Rewrite style in `style.css`
+16. CSS style in HTML could be removed
+17. `<link rel="stylesheet" href="styles.css">` rel : defines the relationship between a linked resource and the current document, stylesheet : imports an external resource
+18. `<meta name="viewport" content="width=device-width, initial-scale=1.0" />` there should be `name` attribute and `content` attribute within meta element, viewport : gives hints about the size of the initial size of the viewport, `content` attribute contains the value for `name` attribute,
+19. `css body {background-color: brown;}`
 20.
 21.
 22.
