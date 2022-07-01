@@ -1,4 +1,4 @@
-# Front End Development Libraries
+# Front End Development Libraries (132 Courses)
 
 Now that you're familiar with HTML, CSS, and JavaScript, level up your skills by learning some of the most popular front end libraries in the industry.
 
