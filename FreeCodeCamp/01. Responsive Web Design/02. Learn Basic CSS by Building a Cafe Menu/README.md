@@ -1,4 +1,4 @@
-# Learn Basic CSS by Building a Cafe Menu
+## Notes
 
 1.
 2.
