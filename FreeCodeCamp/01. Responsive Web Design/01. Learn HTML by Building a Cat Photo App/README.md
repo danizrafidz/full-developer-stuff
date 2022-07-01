@@ -61,11 +61,11 @@
 57. 2`<label>`
 58. 3`<label>`
 59. 2*`value="text"`
-60. 
-61.
-62.
-63.
-64.
-65.
-66.
-67.
+60. *`checked` : make a checkbox checked or radio button selected by default
+61. `<footer> : should be below `main`
+62. 2`<p>`
+63. 2`<a href="">`
+64. `<head>` : other important information goes inside the `head` element
+65. `title` : determines what browsers show in the title bar or tab for the page
+66. *`lang="en"` : specify that the language of the page is English
+67. `<!DOCTYPE html>` : All pages should begin with it; THE MOTHER OF THE MOTHER OF HTML; declarations 
