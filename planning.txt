@@ -1,23 +1,22 @@
 DANISH RAFIE AL RASYAD - RESOLUSI 2022
-- Konsisten, kalo enggak ya ambyar
 
-JULI | (New) Responsive Web Design Certification
+JULY | (New) Responsive Web Design Certification
 - Project
 
-AGUSTUS | JavaScripts Algorithms and Data Structures Certification
+AUGUST | JavaScripts Algorithms and Data Structures Certification
 - Project
 
 SEPTEMBER | Front End Development Libraries Certification
 - Project
 - Expected get CS50's Introduction to Computer Science Certificate 
 
-OKTOBER | Data Visualization Certification
+OCTOBER | Data Visualization Certification
 - Project
 
 NOVEMBER | Back End Development and APIs Certification
 - Project
 
-DESEMBER | :)
+DECEMBER | :)
 - Expected get HarvardX Professional Certificate Computer Science for Web Programming
 
 EXPECTED PORTOFOLIO (My Own Website):
