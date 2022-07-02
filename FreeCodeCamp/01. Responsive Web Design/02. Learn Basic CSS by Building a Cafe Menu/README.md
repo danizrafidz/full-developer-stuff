@@ -31,10 +31,10 @@ h1 {
 19. `body {background-color: brown;}` just look at docs syntax please
 20. burlywood
 21. `<div>` has no use except is fucking useful for CSS with its `class` attribute, mainly for design layout purposes 
-22. `div {width: 300px;}`
+22. `div {width: 300px;}` : px is pixels
 23. `/* comment here */`
 24. = 19
-25.
+25. `div {width: 80%;}`
 26.
 27.
 28.
