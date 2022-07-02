@@ -27,7 +27,7 @@ Read, Search, Ask
 Build your portofolio
 More crucial if you're self-taught programmer
 5. MARKET
-  You have been locked in your room for six months with minimal contact from the outside world
+  - You have been locked in your room for six months with minimal contact from the outside world
   It's time to put yourself out there (Maybe hardest part for some people)
   Build LinkedIn, Post cringy programming motivation
   Message people, talk to people, make friends in the industry
