@@ -28,12 +28,12 @@ h1 {
 16. CSS style in HTML could be removed
 17. `<link rel="stylesheet" href="styles.css">` rel : defines the relationship between a linked resource and the current document, stylesheet : imports an external resource
 18. `<meta name="viewport" content="width=device-width, initial-scale=1.0" />` there should be `name` attribute and `content` attribute within meta element, viewport : gives hints about the size of the initial size of the viewport, `content` attribute contains the value for `name` attribute,
-19. `css body {background-color: brown;}`
-20.
-21.
-22.
-23.
-24.
+19. `body {background-color: brown;}` just look at docs syntax please
+20. burlywood
+21. `<div>` has no use except is fucking useful for CSS with its `class` attribute, mainly for design layout purposes 
+22. `div {width: 300px;}`
+23. `/* comment here */`
+24. = 19
 25.
 26.
 27.
