@@ -35,22 +35,22 @@ h1 {
 23. `/* comment here */`
 24. = 19
 25. `div {width: 80%;}`
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41.
+26. `margin-left: auto;` and `margin-right: auto;` to center
+27. `.class {styles}`
+28. `<div =class="menu">`
+29. 
+30. `<article>` :  contain a flavor and price of each coffee you currently offer
+31. `<article>` : commonly contain multiple elements that have related information
+32. 5 <article> with 2 nested <p> on it
+33. `<p class="flavor">` : in order not stacked both flavor and price, should be left and right
+34. `.flavor {text-align: left;}`
+35. `<p class="price">3.00</p>`
+36. `.price {text-align: right;}`
+37. p elements are block-level elements
+38. `.item p {display: inline-block;}`
+39. `width: 50%;` : teknik mengakalkan
+40. `width: 49%;` : make it less than 50% so they won't broken (shift to down)
+41. `<p class="flavor">French Vanilla</p><p class="price">3.00</p>` : simply move the price `p` element to be on the same line and make sure there is no space between them
 42.
 43.
 44.
