@@ -1,5 +1,19 @@
+![image](https://user-images.githubusercontent.com/105960343/177035531-899a9362-8e33-451a-97c5-8fc2cf87fc0d.png)
+
 0. Which programming language to learn?
 - Learn Python, JavaScript since it's a good investment easy and invtuitive to write (not C++, Java or low language) cuz it's versatile and have many applications in career
+
+#### BEWARE THAT MOST POPULAR LANGUAGES AND FRAMEWORK ARE ALWAYS GOING TO CHANGE! SO DON'T UNDERESTIMATE FUNDEMENTALS YOU'VE LEARNED IN C AND C++
+![image](https://user-images.githubusercontent.com/105960343/177035504-d8680d9f-85e2-415f-bea8-2bd0bb39ee8d.png)
+But it's okay to start learn coding (C++ Subset) before programming (C, C++)
+
+![image](https://user-images.githubusercontent.com/105960343/177035322-36bdf2e6-3cea-4581-bf59-ca3e22bb0898.png)
+Job Listed for now
+-  Back-End : Express > Django > Flask
+-  Front-End : React
+-  Datbase : MongoDb
+
+- After that you can learn C and C++ in order to master
 
 ### This image will save your time
 ![image](https://user-images.githubusercontent.com/105960343/177010576-cf18252d-5f72-4561-b044-d3e723ff4403.png)
