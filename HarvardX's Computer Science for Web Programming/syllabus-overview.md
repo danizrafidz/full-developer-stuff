@@ -92,3 +92,15 @@ to 11
 9. Dreadhalls
 10. Portal
 11. Portal Problems
+
+### CS50B 2020
+https://cs50.harvard.edu/business/2017/notes/1/
+https://cdn.cs50.net/cscie1b/2017/fall/lectures/computational_thinking/computational_thinking.pdf
+to 
+
+1. Computational Thinking
+2. Programming Languages
+3. Internet Technologies
+4. Web Development
+5. Technology Stacks
+6. Cloud Computing
