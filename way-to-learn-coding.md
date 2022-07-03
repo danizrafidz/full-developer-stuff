@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=s9iPo9YMU70
     - FOR EXAMPLE: Web Crawler, Alarm Clock, App that gives you Wikipedia article of the day
     - ADVANCED PROJECTS : Spam Filter, Algorithmic Trading Engine, E-Commerce Website
   - Now you have a great portofolio/resume and you are confident about your programming skills
-### 2. NO INTERBIEW PREP
+### 2. NO INTERVIEW PREP
 - How to prepare for interviews?
 - Usually Data Structures and Algorithms
 - Google Intro to Data Structures and Algorithms in Udacity, Be Regular and finish this course
