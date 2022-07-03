@@ -1,3 +1,3 @@
-- Open Projects
-----------------------------------------------------------------------
-Repository for progression become Full Stack Developer
+# ROADMAP TO FULL STACK DEVELOPER
+---
+Repository of my progression becoming Full Stack Developer
