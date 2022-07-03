@@ -51,9 +51,9 @@ h1 {
 39. `width: 50%;` : teknik mengakalkan
 40. `width: 49%;` : make it less than 50% so they won't broken (shift to down)
 41. `<p class="flavor">French Vanilla</p><p class="price">3.00</p>` : simply move the price `p` element to be on the same line and make sure there is no space between them
-42.
-43.
-44.
+42. Now it's work if you change width 49% to width 50% since both <p> are on the same line without space (not sure why)
+43. Self-explanatory
+44. Self-explanatory
 45.
 46.
 47.
