@@ -47,30 +47,30 @@ h1 {
 35. `<p class="price">3.00</p>`
 36. `.price {text-align: right;}`
 37. p elements are block-level elements
-38. `.item p {display: inline-block;}`
+38. `.item p {display: inline-block;}` : maksudnya ditunjukkan untuk p didalam element yang mempunyai atribut `class="item"`
 39. `width: 50%;` : teknik mengakalkan
 40. `width: 49%;` : make it less than 50% so they won't broken (shift to down)
 41. `<p class="flavor">French Vanilla</p><p class="price">3.00</p>` : simply move the price `p` element to be on the same line and make sure there is no space between them
 42. Now it's work if you change width 49% to width 50% since both <p> are on the same line without space (not sure why)
 43. Self-explanatory
 44. Self-explanatory
-45.
-46.
-47.
-48.
-49.
+45. Self-explanatory
+46. 75% dan 25% Supaya mobile compatible
+47. 2 Sections in 1 Main
+48. =
+49. 
 50.
 51.
-52.
+52. `.flavor, .dessert { text-align: left; width: 75%; }`
 53.
-54.
-55.
-56.
-57.
-58.
-59.
-60.
-61.
+54. `padding-left: 20px; padding-right: 20px;`
+55. `padding-top: 20px; padding-bottom: 20px;`
+56. All of those 4 padding could be simplified with just 1 property which is `padding: 20px;`
+57. `max-width: 500px;`
+58. `font-family: sans-serif;`
+59. `h1, h2 { font-family: Impact; }`
+60. `font-family: Impact, serif;` : fallback value, only used in instances where the initial is not found/available 
+61. 
 62.
 63.
 64.
