@@ -70,30 +70,30 @@ h1 {
 58. `font-family: sans-serif;`
 59. `h1, h2 { font-family: Impact; }`
 60. `font-family: Impact, serif;` : fallback value, only used in instances where the initial is not found/available 
-61. 
-62.
-63.
-64.
-65.
-66.
-67.
-68.
-69.
-70.
-71.
+61. `.established { font-style: italic; }`
+62. 
+63. `h1 { font-size: 40px; } h2 { font-size: 30px; }`
+64. `<footer>`
+65. `<p><a href="https://www.freecodecamp.org">Visit our website</p>`
+66. 
+67. `<hr>` : divider
+68. `hr { height: 3px; }`
+69. 
+70. `border-color: brown;` : note : Each side of an element can have a different color or they can all be the same.
+71. The default value of a property named border-width is 1px for all edges
 72.
-73.
-74.
-75.
-76.
-77.
-78.
-79.
-80.
-81.
-82.
-83.
-84.
+73. `padding: 20px;`
+74. `margin-top: 5px; margin-bottom: 5px;`
+75. `font-size: 18px;`
+76. `.bottom-line { margin-top: 25px; }`
+77. `<hr class="bottom-line">`
+78. `/* FOOTER */` : don't forget to put this comment at the end of `style.css`, will easy you to identify
+79. `footer { font-size: 14px; }`
+80. `a { color: black; }`
+81. PSEUDO-SELECTOR `a:visited { color: grey; }` : when the link has actually been visited
+82. `a:hover { color: brown; }` : when the mouse hovers over them
+83. `a:active { color: white; }` : when the link is actually being clicked 
+84. 
 85.
 86.
 87.
