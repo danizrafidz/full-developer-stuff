@@ -94,11 +94,11 @@ h1 {
 82. `a:hover { color: brown; }` : when the mouse hovers over them
 83. `a:active { color: white; }` : when the link is actually being clicked 
 84. 
-85.
-86.
-87.
+85. due to the browser having some default top margin for the h1 element. `margin-top: 0;`
+86. vertical space
+87. 
 88.
-89.
-90.
-91.
-92.
+89. `<img src="https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg" alt="coffee icon"></a>`
+90. `img { display: block; margin-left: auto; margin-right: auto }`
+91. `<img src="https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg" alt="pie icon">`
+92. `margin-top: -25px;` : it will pull up
