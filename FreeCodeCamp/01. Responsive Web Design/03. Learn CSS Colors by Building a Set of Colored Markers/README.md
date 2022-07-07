@@ -26,34 +26,34 @@
 24.
 25. `padding: 10px 0px;` : 10px place is for top & bottom and 0px place is for right & left
 26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41.
+27. `background-color: rgb(255, 255, 255);`
+28. Secondary colors are the colors you get when you combine primary colors. `rgb(255, 255, 0)` : Yellow
+29. `rgb(0, 255, 255)` : Cyan
+30. `rgb(255, 0, 255)` : Magenta
+31. Tertiary colors are created by combining a primary with a nearby secondary color. `rgb(255, 127, 0)` : Orange
+32. `rgb(0, 255, 127)` : Spring Green
+33. `rgb(127, 0, 255)` : Violet
+34. `rgb(127, 255, 0)` : Chartreuse Green
+35. `rgb(0, 127, 255)` : Azure
+36. `rgb(255, 0, 127)` : Rose, If two complementary colors are combined, they produce gray. But when they are placed side-by-side, these colors produce strong visual contrast and appear brighter.
+37. Notice that the red and cyan colors are very bright right next to each other. This contrast can be distracting if it's overused on a website, and can make text hard to read if it's placed on a complementary-colored background. It's better practice to choose one color as the dominant color, and use its complementary color as an accent to bring attention to certain content on the page.
+38. 
+39. 
+40. 
+41. 
 42.
 43.
 44.
 45.
-46.
-47.
-48.
-49.
-50.
+46. hexdecimal / hex values colors : #00 (RED) AA (BLUE) FF (GREEN) , #00AAFFF , 00 = 0;0% , FF = 255;100%, 
+47. 
+48. `hsl(240, 100%, 50%)` : HSL color model, or HUE (0-360, Color), SATURATION (0-100%, Gray), and LIGHTNESS (0-100%, White-Black)
+49. 
+50. GRADIENT time `linear-gradient(gradientDirection, color1, color2, ...);` , `background: linear-gradient(90deg);`
 51.
-52.
-53.
-54.
+52. `background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0));`
+53. Or you can add to 3 `background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0), rgb(0,0,255));`
+54. COLOR-STOPS `linear-gradient(90deg, red 90%, black);` , So Red will dominate 90% over Black
 55.
 56.
 57.
