@@ -78,7 +78,7 @@
 76. 
 77.
 78.  the default `display` property for `div` elements is `block`
-79. -IMPORTANT
+79. - IMPORTANT
 80.
 81.
 82.
