@@ -58,27 +58,27 @@
 56.
 57.
 58.
-59.
-60.
+59. Perfect Red Marker `background: linear-gradient(180deg, rgb(122, 74, 14) 0%, rgb(245, 62, 113) 50%, rgb(162, 27, 27) 100%);`
+60. `background: linear-gradient(180deg, #55680D, #71F53E, #116C31);`
 61.
 62.
 63.
 64.
-65.
-66.
+65. Remove the gradientDirection and color-stops to simplify it `background: linear-gradient( rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));` 
+66. HSL AREA : 
 67.
 68.
 69.
 70.
 71.
-72.
-73.
-74.
-75.
-76.
+72. `.sleeve { width: 110px; height: 25px; }`
+73. OPACITY describes how opaque, or non-transparent, something is. `opacity: 0.5;` from 0% which is transparent & 100% is opaque
+74. ALPHA CHANNEL 
+75. USE RGBA instead RGB, It's better : `rgba(255, 255, 255, 0.5);` 
+76. 
 77.
-78.
-79.
+78.  the default `display` property for `div` elements is `block`
+79. -IMPORTANT
 80.
 81.
 82.
