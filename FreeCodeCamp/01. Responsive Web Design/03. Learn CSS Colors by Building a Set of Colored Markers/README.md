@@ -80,11 +80,11 @@
 78.  - IMPORTANT : the default `display` property for `div` elements is `block`
 79. 
 80. `border-left-width: 10px;` & `border-left-style: solid;`
-81.
-82.
-83.
-84.
-85.
+81. `border-left-color: black;`
+82. THREE IN ONE / SHORTHAND `border-left: width style color;` of border-left-width, border-left-style, and border-left-color
+83. 
+84. for not harsh black `border-left: 10px double rgba(0, 0, 0, 0.75);`
+85. 
 86.
 87.
 88.
