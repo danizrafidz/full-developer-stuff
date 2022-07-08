@@ -77,9 +77,9 @@
 75. USE RGBA instead RGB, It's better : `rgba(255, 255, 255, 0.5);` 
 76. 
 77.
-78.  the default `display` property for `div` elements is `block`
-79. ##### IMPORTANT
-80.
+78.  - IMPORTANT : the default `display` property for `div` elements is `block`
+79. 
+80. `border-left-width: 10px;` & `border-left-style: solid;`
 81.
 82.
 83.
