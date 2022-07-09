@@ -84,13 +84,13 @@
 82. THREE IN ONE / SHORTHAND `border-left: width style color;` of border-left-width, border-left-style, and border-left-color
 83. 
 84. for not harsh black `border-left: 10px double rgba(0, 0, 0, 0.75);`
-85. 
-86.
-87.
-88.
-89.
-90.
-91.
-92.
-93.
-94.
+85. Copy 
+86. `box-shadow: offsetX offsetY color;` = `box-shadow: 5px 5px red`
+87.  Negative: `box-shadow: -5px -5px red;`
+88. `box-shadow: offsetX offsetY blurRadius color;` = `box-shadow: 5px 5px 5px green`
+89. `box-shadow: offsetX offsetY blurRadius spreadRadius color;`
+90. `box-shadow: 0 0 0 5px blue`
+91. `box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);`
+92. 
+93. `box-shadow: 0 0 20px 0 #3B7E20CC;`
+94. `box-shadow: 0 0 20px 0 hsla(223, 59%, 31%, 0.8);`
