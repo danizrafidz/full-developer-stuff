@@ -13,18 +13,18 @@
 11. `<form action='https://register-demo.freecodecamp.org'>`
 12. 
 13.
-14.
-15.
+14. IMPORTANT : `label { display: block; margin: 0.5rem 0 }` To make separate line, NOT INLINE
+15. after the label text, and include a space after the colon.
 16.
-17.
-18.
-19.
-20.
-21.
+17. automatically set to submit its nearest parent form element. `<input type="submit" value="Submit">`
+18. 
+19. built-in form validation
+20. `<input type="password" minlength="8" required />` IMPORTANT : `pattern="[a-z0-5]{8,}"`
+21. 
 22.
-23.
-24.
-25.
+23. For the terms and conditions `<label><input type="checkbox" required/> </label>`
+24. Hint : You should give the first label text one space at the front.
+25. 
 26.
 27.
 28.
