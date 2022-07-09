@@ -2,7 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="with=device-width", initial-scale=1.0>
     <title>Formulir PT SEMI</title>
+    <link href="styles.css" rel="stylesheet">
   </head>
   <body>
     <div>
@@ -11,11 +13,37 @@
     </div>
     <div>
       <form id="survey-form">
-        <h2>Nama</h2>
-        <input id="name" type="text">
-        <h2>Email</h2>
-        <input id="email" type="text">
+        <label id="name-label">
+          <h2>Nama</h2>
+          <input id="name" type="text" placeholder="Masukkan nama" required>
+        </label>
+        <label id="email-label">
+          <h2>Email</h2>
+          <input id="email" type="email" placeholder="Masukkan email" required>
+        </label>
+        <label id="number-label">
+          <h2>Umur</h2>
+          <input id="number" type="number" placeholder="Umur" min="17" max="25">
+        </label>
+        <label>
+          <h2>Status</h2>
+          <select id="dropdown">
+            <option>Mahasiswa</option>
+            <option>Wiraswasta</option>
+            <option>Kedinasan</option>
+          </select>
+        </label>
+          <h2>Opsi</h2>
+          <input type="radio" name="optional" value="smart-hard-work">Smart Hard Work<br>
+          <input type="radio" name="optional" value="smart-work">Smart Work<br>
+          <input type="radio" name="optional" value="hard-work">Hard Work
+          <h2>Checkboxes</h2>
+          <input type="checkbox" value="math">Math
+          <input type="checkbox" value="programming">Programming
+          <input type="checkbox" value="business">Business
+        <textarea></textarea>
+        <button id="submit" type="submit">Submit
       </form>
     </div>
-  <body>
+  </body>
 </html>
