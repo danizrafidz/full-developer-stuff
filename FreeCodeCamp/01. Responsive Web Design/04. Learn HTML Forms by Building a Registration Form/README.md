@@ -6,12 +6,12 @@
 4.
 5.
 6.
-7.
-8.
-9.
-10.
-11.
-12.
+7. `body { width: 100%; height: 100vh; }`
+8. 
+9. `background-color: #1b1b32; color: #f5f6f7; }`
+10. 
+11. `<form action='https://register-demo.freecodecamp.org'>`
+12. 
 13.
 14.
 15.
