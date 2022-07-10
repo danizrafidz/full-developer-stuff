@@ -25,7 +25,7 @@
 23. For the terms and conditions `<label><input type="checkbox" required/> </label>`
 24. Hint : You should give the first label text one space at the front.
 25. 
-26.
+26. X
 27.
 28.
 29.
