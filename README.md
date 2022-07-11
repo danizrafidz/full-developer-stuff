@@ -1,4 +1,4 @@
-# ROADMAP TO FULL STACK DEVELOPER
+# ROADMAP TO FULL STACK DEVELOPER lol
 ---
 This repository is used to document my journey on getting a better foundational knowledge of Full Stack Developer. I will be starting this journey on the 1st July 2022 but the idea is that we take 180 days which just so happens to be July 1st to December 31st.
 
@@ -16,3 +16,4 @@ https://jdihn.go.id/files/241/Hacktiv8-curicullum-sylabus.pdf
 
 https://pdfcoffee.com/fsjs-syllabus-hacktiv8-pdf-free.html
 
+Okok
