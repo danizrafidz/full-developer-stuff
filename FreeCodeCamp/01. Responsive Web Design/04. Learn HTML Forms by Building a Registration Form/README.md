@@ -41,16 +41,16 @@
 39. `max-width: 500px; min-width: 300px; width: 60vw`
 40. `padding: 2rem 0 2rem 0; border: none; }`
 41. `border-bottom: 3px solid #3b3b4f;`
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
+42. `p:last-of-type { }` KHUSUS
+43. IMPORTANT It would be nicer to have the label text appear above the form elements.
+44. 
+45. This will remove the earlier rule which set all  with `UNSET`
+46. `margin: 0 0.5em 0 0; `
+47. `vertical-align: middle;`
+48. `border: 1px solid #0a0a23;`
+49. 
 50.
-51.
+51. IMPORTANT `input[name="password"]`
 52.
 53.
 54.
