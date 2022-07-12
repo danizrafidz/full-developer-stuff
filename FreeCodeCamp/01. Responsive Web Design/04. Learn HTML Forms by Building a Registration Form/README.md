@@ -27,20 +27,20 @@
 25. 
 26. X
 27.
-28.
-29.
+28. <label>Input your age (years): <input type="number" min="13" max="120" /></label>
+29. REMEMBER <option> = <label>
 30.
 31.
-32.
-33.
-34.
+32. `value=""`
+33. `<textarea rows="3" cols="30"></textarea>`
+34. 
 35.
-36.
-37.
-38.
-39.
-40.
-41.
+36. Name attribute is used to identify the element in the form submission.
+37. `font-family: Tahoma; font-size: 16px;`
+38. `h1, p { margin: 1em auto; text-align: center; }`
+39. `max-width: 500px; min-width: 300px; width: 60vw`
+40. `padding: 2rem 0 2rem 0; border: none; }`
+41. `border-bottom: 3px solid #3b3b4f;`
 42.
 43.
 44.
