@@ -55,5 +55,5 @@
 53.
 54.
 55.
-56.
+56. `input[type="file"] {	padding: 1px 2px; }`
 57.
