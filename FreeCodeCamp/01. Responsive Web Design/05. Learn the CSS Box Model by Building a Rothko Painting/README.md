@@ -13,7 +13,7 @@ CSS Box Model
 9.
 10.
 11.
-12.
+12. `border: 50px solid black`
 13.
 14.
 15.
@@ -22,8 +22,8 @@ CSS Box Model
 18.
 19.
 20.
-21.
-22.
+21. Now .one is centered horizontally, but its top margin is pushing past the canvas and onto the frame's border, shifting the entire canvas down 20 pixels.
+22. `overflow: hidden;`
 23.
 24.
 25.
