@@ -1,10 +1,12 @@
 ## NOTES:
+CSS Box Model
+https://cdn.freecodecamp.org/curriculum/css-box-model/diagram-3.png
 
 1.
 2.
 3.
-4.
-5.
+4. The content is surrounded by a space called padding, similar to how bubble wrap separates an item from the box around it. Think of the border like the cardboard box your item was shipped in.
+5. Margin is the area outside of the box, and can be used to control the space between other boxes or elements.
 6.
 7.
 8.
