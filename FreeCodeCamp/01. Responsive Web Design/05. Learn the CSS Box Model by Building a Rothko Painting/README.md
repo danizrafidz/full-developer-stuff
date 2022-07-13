@@ -1,6 +1,6 @@
 ## NOTES:
 CSS Box Model
-https://cdn.freecodecamp.org/curriculum/css-box-model/diagram-3.png
+![image](https://user-images.githubusercontent.com/105960343/178665895-f63bde5a-5b0d-4392-8b87-dfac0cc12d1d.png)
 
 1.
 2.
