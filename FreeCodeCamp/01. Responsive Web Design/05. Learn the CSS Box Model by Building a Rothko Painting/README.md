@@ -34,16 +34,16 @@ CSS Box Model
 30.
 31.
 32.
-33.
-34.
-35.
-36.
+33. `margin: 0 auto 20px;`
+34. 
+35. `h1, p { filter: blur(3px); }`
+36. 
 37.
 38.
 39.
-40.
-41.
-42.
-43.
-44.
+40. `border-radius: 9px;`
+41. `border-radius: 8px 10px;`
+42. `border-radius: 30px 25px 60px 12px;`
+43. `transform: rotate(-0.6deg);`
+44. 
 45.
