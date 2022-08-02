@@ -1,6 +1,6 @@
 DANISH RAFIE AL RASYAD - RESOLUSI 2022
 
-Web Designer -> Web Developer -> Full-Stack Developer
+Web Designer -> Web Developer -> DevOps / Full-Stack Developer
 
 JULY | (New) Responsive Web Design Certification
 - Project
