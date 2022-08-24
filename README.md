@@ -16,4 +16,4 @@ https://jdihn.go.id/files/241/Hacktiv8-curicullum-sylabus.pdf
 
 https://pdfcoffee.com/fsjs-syllabus-hacktiv8-pdf-free.html
 
-start coding 8/22/2022
+start coding 8/24/2022
