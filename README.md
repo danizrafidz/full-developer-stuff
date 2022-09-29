@@ -16,4 +16,4 @@ https://jdihn.go.id/files/241/Hacktiv8-curicullum-sylabus.pdf
 
 https://pdfcoffee.com/fsjs-syllabus-hacktiv8-pdf-free.html
 
-Freecodecamp 9/27/2022
+Freecodecamp 9/28/2022
